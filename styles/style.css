@@ -851,12 +851,12 @@ video {
 
 .text-primary {
   --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+  color: rgb(127 0 178 / var(--tw-text-opacity));
 }
 
 .text-secondary {
   --tw-text-opacity: 1;
-  color: rgb(42 158 222 / var(--tw-text-opacity));
+  color: rgb(33 150 243 / var(--tw-text-opacity));
 }
 
 .text-white {
@@ -910,12 +910,12 @@ video {
 
 .hover\:text-primary:hover {
   --tw-text-opacity: 1;
-  color: rgb(59 130 246 / var(--tw-text-opacity));
+  color: rgb(127 0 178 / var(--tw-text-opacity));
 }
 
 .hover\:text-secondary:hover {
   --tw-text-opacity: 1;
-  color: rgb(42 158 222 / var(--tw-text-opacity));
+  color: rgb(33 150 243 / var(--tw-text-opacity));
 }
 
 @media (min-width: 768px) {
